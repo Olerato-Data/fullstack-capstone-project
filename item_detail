@@ -1,0 +1,4 @@
+/* written by Brian McCarthy */
+curl -X GET http://localhost:3000/api/gifts/64b1f2e1a5b6c7d8e9f0a1b2
+Output:
+{ "id": "64b1f2e1a5b6c7d8e9f0a1b2", "name": "Cozy Armchair", "category": "Living", "condition": "Like New", "age_years": 2, "description": "Very comfortable armchair, perfect for reading." }

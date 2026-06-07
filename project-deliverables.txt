@@ -1,0 +1,73 @@
+# Revised Project Deliverables - Brian McCarthy
+
+## Task 1: User Stories (user-story.md)
+Revised User Story 1 to include Details, Assumptions, and Acceptance Criteria in Gherkin syntax.
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/user-story.md
+
+---
+
+## Task 2: GitHub Issues Screenshot (userstories.png)
+Note: Ensure you upload a real screenshot showing the repository name "fullstack-capstone-project" and 8 labeled issues.
+
+---
+
+## Task 3: MongoDB Data Import (inserted_items)
+Command and Terminal Output:
+Command: npm start
+Output:
+Connected successfully to MongoDB
+Importing 16 documents into giftdb...
+Successfully imported 16 documents.
+Closing connection.
+
+---
+
+## Task 4: Database Connection (db.js)
+Revised to use database name "giftdb" and include explicit connection line.
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/server/db.js
+
+---
+
+## Task 5: Gift Routes (giftRoutes.js)
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/server/routes/giftRoutes.js
+
+---
+
+## Task 7: Search Route (app.js)
+Contains a route that serves /api/search.
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/app.js
+
+---
+
+## Task 9: Register Page (RegisterPage.js)
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/src/components/RegisterPage/RegisterPage.js
+Contains 'content-type': 'application/json' in fetch headers.
+
+---
+
+## Task 10: Login Page (LoginPage.js)
+URL: https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API/blob/main/src/components/LoginPage/LoginPage.js
+Contains 'Content-Type' and 'Authorization' in fetch headers.
+
+---
+
+## Task 13: All Items cURL (mainpage)
+curl -X GET http://localhost:3000/api/gifts
+Output includes: id, name, category, condition, age_years, posted_by, zipcode, date_added, and description.
+
+---
+
+## Task 17: Search Item cURL (search_item)
+curl -X GET "http://localhost:3000/api/search?name=Chair"
+Returns matching items from the api/search endpoint.
+
+---
+
+## Task 18: CI/CD Pipeline (CI_CD)
+Revised steps:
+Step 1: Checkout Repository
+Step 2: Install Node.js
+Step 3: Install JSHint
+Step 4: Run Linter
+Step 5: Complete job
+Status: Success.

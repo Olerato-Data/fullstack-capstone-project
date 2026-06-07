@@ -1,0 +1,13 @@
+/* written by Brian McCarthy */
+
+Command:
+npm start
+
+Terminal Output:
+> giftlink-backend@1.0.0 start
+> node server/app.js
+
+Connected successfully to MongoDB
+Importing 16 documents into giftdb...
+Successfully imported 16 documents.
+Closing connection.

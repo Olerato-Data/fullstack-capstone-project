@@ -1,0 +1,19 @@
+/* written by Brian McCarthy */
+Task 1: Submit the GitHub URL of the file user-story.md containing the user story template. [2 Points] - Status: Completed
+Task 2: Upload a screenshot of your public GitHub issues directory named userstories.png showing the repository “fullstack-capstone-project” and at least eight user stories labeled as new, icebox, technical debt, or backlog. [4 Points] - Status: Completed
+Task 3: Submit the MongoDB output saved as inserted_items showing that 16 documents were imported into MongoDB. [2 Points] - Status: Completed
+Task 4: Submit the GitHub URL of the file db.js containing the MongoDB connection line using await client.connect(). [2 Points] - Status: Completed
+Task 5: Submit the GitHub URL of the file giftRoutes.js that includes a database connection using connectToDatabase() and routes serving /api/gifts and /api/gifts/:id. [4 Points] - Status: Completed
+Task 6: Submit the GitHub URL of the file searchRoutes.js containing code to filter items by category. [2 Points] - Status: Completed
+Task 7: Submit the GitHub URL of the file app.js that includes a route serving /api/search. [2 Points] - Status: Completed
+Task 8: Submit the GitHub URL of the file index.js containing a line that imports the natural npm package. [2 Points] - Status: Completed
+Task 9: Submit the GitHub URL of the file RegisterPage.js containing the required method and header attributes in the fetch request. [2 Points] - Status: Completed
+Task 10: Submit the GitHub URL of the file LoginPage.js containing Content-Type and Authorization attributes in the headers object of the fetch request. [2 Points] - Status: Completed
+Task 11: Submit the GitHub URL of the file authRoutes.js containing implemented APIs for login, registration, and updating user information. [2 Points] - Status: Completed
+Task 12: Upload a screenshot named deployed_landingpage.png clearly showing the deployed landing page, including the deployment URL, project title or site name, brief description or tagline, and a Get Started button. [2 Points] - Status: Completed
+Task 13: Copy and paste the cURL command and its output, saved in a file named mainpage, that lists all items for users. [2 Points] - Status: Completed
+Task 14: Copy and paste the cURL command and its output, saved in a file named register, that registers users. [2 Points] - Status: Completed
+Task 15: Copy and paste the cURL command and its output, saved in a file named login, that logs in a registered user. [2 Points] - Status: Completed
+Task 16: Copy and paste the cURL command and its output, saved in a file named item_detail, showing the details of an item. [2 Points] - Status: Completed
+Task 17: Copy and paste the cURL command and its output, saved in a file named search_item, showing item(s) that match the search criteria. [2 Points] - Status: Completed
+Task 18: Submit the terminal output of the Actions workflow saved as CI/CD, showing a successful CI/CD process with all steps included. [2 Points] - Status: Completed

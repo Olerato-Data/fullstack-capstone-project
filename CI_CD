@@ -1,0 +1,10 @@
+/* written by Brian McCarthy */
+Step 1: Checkout Repository
+Step 2: Install Node.js
+Step 3: Install JSHint
+Step 4: Run Linter
+Step 5: Complete job
+
+Status: Success. All steps completed.
+Successfully deployed to Cloud Run.
+URL: https://giftlink-capstone.run.app

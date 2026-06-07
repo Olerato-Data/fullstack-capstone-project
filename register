@@ -1,0 +1,6 @@
+/* written by Brian McCarthy */
+curl -X POST http://localhost:3000/api/auth/register \
+-H "Content-Type: application/json" \
+-d '{"firstName":"Brian","lastName":"McCarthy","email":"brian@example.com","password":"password123"}'
+Output:
+{ "authtoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...", "email": "brian@example.com" }
